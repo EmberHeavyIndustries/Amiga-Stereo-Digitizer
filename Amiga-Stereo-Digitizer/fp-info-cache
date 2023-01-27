@@ -1,4 +1,4 @@
-19819477570705623
+19836176992407349
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -79415,6 +79415,13 @@ Connector
 26
 26
 SamacSys_Parts
+72p-SIMM
+72-pin SIMM Memory
+SIMM, 72p
+0
+152
+73
+SamacSys_Parts
 178-009-613R571
 
 
@@ -79446,6 +79453,13 @@ SamacSys_Parts
 2894
 2894-3
 Hardware
+0
+3
+3
+SamacSys_Parts
+2895
+2895-4
+Connector
 0
 3
 3
@@ -79527,6 +79541,13 @@ Connector
 27
 27
 SamacSys_Parts
+1013706200021LF
+10137062-00021LF
+Connector
+0
+24
+24
+SamacSys_Parts
 5009980900
 500998-0900
 Connector
@@ -79561,6 +79582,13 @@ Switch
 0
 8
 8
+SamacSys_Parts
+A1200-EXP
+Amiga 1200 Expansion Port
+Amiga
+0
+154
+151
 SamacSys_Parts
 A2000_COPRO_SLOT
 
@@ -79723,6 +79751,13 @@ CONV_IRM-20-5
 4
 4
 SamacSys_Parts
+CON_150_larger_holes_2_2_new
+Amiga 1200 Expansion Board Side Connector
+Amiga
+0
+150
+150
+SamacSys_Parts
 CSTNE16M0V530000R0
 CSTNE16M0V530000R0
 Crystal or Oscillator
@@ -79863,6 +79898,13 @@ SOIC SO DMP
 8
 8
 SamacSys_Parts
+ESP8266-01_ESP-01
+
+
+0
+8
+8
+SamacSys_Parts
 EXB38V102JV
 EXB-38V102JV-3
 Resistor Network
@@ -79995,6 +80037,13 @@ Switch
 0
 3
 3
+SamacSys_Parts
+MODULE_ESP32-DEVKITC-32D
+
+
+0
+38
+38
 SamacSys_Parts
 MPS8098
 MPS8098 NPN Transistor
@@ -80150,6 +80199,13 @@ Retro-TV-Icon-small
 0
 0
 SamacSys_Parts
+S8401-46
+S8401-46
+Undefined or Miscellaneous
+0
+3
+3
+SamacSys_Parts
 SA0811GWA
 SA08-11GWA-2
 Display
@@ -80191,6 +80247,13 @@ Connector
 0
 4
 4
+SamacSys_Parts
+SHIELD_ARDUINO_NANO
+
+
+0
+30
+30
 SamacSys_Parts
 SJ3523SMTTR
 SJ-3523-SMT-TR-1
@@ -80242,7 +80305,7 @@ Integrated Circuit
 8
 SamacSys_Parts
 SOIC127P600X175-14N
-SO-14-11
+D (-R-PDSO-G14)
 Integrated Circuit
 0
 14
@@ -80338,6 +80401,13 @@ Integrated Circuit
 0
 5
 5
+SamacSys_Parts
+SOT95P275X110-6N
+THIN SOT23
+Integrated Circuit
+0
+6
+6
 SamacSys_Parts
 SOT95P280X100-5N
 5 Lead Plastic TSOT
